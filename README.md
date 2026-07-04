@@ -1,3 +1,3 @@
 # test-aI
-git tset repository
+git test repository
 ## Test
